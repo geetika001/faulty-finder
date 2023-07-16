@@ -1,4 +1,5 @@
 # Faulty-Finder
+![Demo Video](https://www.loom.com/share/e1820f64081540e893d9759568a7c034?sid=f8d45780-57fc-4328-90c8-47525b5e0858)
 ## Problem Statement: 
 The problem is to design an algorithm and write code to identify the input vector required to detect a fault at a specific node in a given circuit. The circuit represents manufactured chips that may have faults in their structure at certain nodes and must be tested before they are delivered to end users. The circuit file, fault node location, and fault type (SA0 or SA1) are all included in the input. The algorithm should be efficient, robust, and capable of detecting faults quickly.
 
